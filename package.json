@@ -1,0 +1,14 @@
+{
+  "name":"monedero-backend-mp",
+  "version": "1.0.0",
+  "description": "backend mercado pago wallet",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "dependencies": {
+    "express":"^4.18.2"
+  }
+
+}
+    
