@@ -1,5 +1,5 @@
 {
-  "name": "mp-backend-wallwt",
+  "name": "mp-backend-wallet",
   "version": "1.0.0",
   "description": "Backend Mercado Pago Wallet",
   "main": "index.js",
